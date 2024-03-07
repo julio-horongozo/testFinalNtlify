@@ -1,0 +1,19 @@
+.center{
+
+    display: flex;
+    height: 700px;
+    
+
+}
+.imagem{
+    
+    height: 600px;
+    margin: auto;
+    
+
+}
+.botao{
+
+    text-align: center
+
+}

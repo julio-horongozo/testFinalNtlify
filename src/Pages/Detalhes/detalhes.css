@@ -1,0 +1,13 @@
+.detail{
+
+    display: flex;
+    text-align: center;      
+
+}
+
+.itens {
+
+    width: 800px;
+    margin: auto;
+    
+}
